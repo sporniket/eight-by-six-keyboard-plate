@@ -5,11 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "Eight by Six keyboard")
-    (date "2024-09-08")
+    (title "Eight by Six keyboard — the plate")
+    (date "2024-09-11")
     (rev "v1.0.0")
     (company "Sporniket")
-    (comment 3 "https://github.com/sporniket/eight-by-six-keyboard-hardware")
+    (comment 3 "https://github.com/sporniket/eight-by-six-keyboard-plate")
     (comment 4 "Original repository :")
   )
 
