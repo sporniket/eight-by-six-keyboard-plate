@@ -179,7 +179,7 @@
 
   (footprint "cliparts:logo--cc--cc" locked (layer "F.Cu")
     (tstamp 25f4755f-52f2-4d42-bf70-085c67e4f53f)
-    (at 102.235 243.84)
+    (at 102.235 243.205)
     (attr through_hole)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -408,7 +408,7 @@
 
   (footprint "cliparts:logo--cc--zero" locked (layer "F.Cu")
     (tstamp 578d14a4-5be7-4608-b046-184fc8831298)
-    (at 107.315 243.84)
+    (at 107.315 243.205)
     (attr through_hole)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
