@@ -12,7 +12,7 @@ Content
 
 ## 1. What is **8 columns × 6 rows keyboard plate**, and when to use it ?
 
-**8 columns × 6 rows keyboard plate** is a plate project for an ortholinear, 8 columns by 6 rows, DIY keyboard. It's a companion project to the [8 columns × 6 rows keyboard](https://github.com/sporniket/eight-by-six-keyboard-hardware).
+**8 columns × 6 rows keyboard plate** is a plate project for an ortholinear, 8 columns by 6 rows, DIY keyboard. It's a companion project to the [8 columns × 6 rows keyboard hardware](https://github.com/sporniket/eight-by-six-keyboard-hardware).
 
 ![PCB preview](gallery/overview.png)
 
